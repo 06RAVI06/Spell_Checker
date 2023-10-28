@@ -36,8 +36,9 @@ This is a simple spell checker application with a user-friendly and colorful gra
 
 ## Output
 
-<div align="center">![Screenshot 2023-10-28 105909](https://github.com/06RAVI06/Spell_Checker/assets/107626246/5ae4172c-6fb2-4392-9093-73649e6eafbb)
-![Screenshot 2023-10-28 105923](https://github.com/06RAVI06/Spell_Checker/assets/107626246/68c01441-974c-4cd9-9674-a3050694a609)
+<div align="center">
+   ![Screenshot 2023-10-28 105909](https://github.com/06RAVI06/Spell_Checker/assets/107626246/5ae4172c-6fb2-4392-9093-73649e6eafbb)
+   ![Screenshot 2023-10-28 105923](https://github.com/06RAVI06/Spell_Checker/assets/107626246/68c01441-974c-4cd9-9674-a3050694a609)
 
 </div>
 
